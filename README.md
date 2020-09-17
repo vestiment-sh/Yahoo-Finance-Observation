@@ -1,4 +1,5 @@
 # Yahoo-Finance-Web-Scrape
+# For our web scrapping project, we have decide to scrape yahoo finance and extract financial statistic of companies. This is designed to speed up the finacial analysis process, so that professionals can quickly extract the same data from different companies in a more efficeint manner. The data we will be extracting are previous close, 52 Week Range, Market Cap and other common financial ratios. To run the script, we will input the stock tiker which the script will then extract the relevant data from the statistic page of that publicly traded company on yahoo finance. 
 
 from lxml import html
 import requests
