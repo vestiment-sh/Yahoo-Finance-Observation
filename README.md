@@ -1,3 +1,2 @@
 # Yahoo-Finance-Web-Scrape
-
-Some description!
+For our web scrapping project, we have decided to scrape yahoo finance and extract financial statistic of companies. Usually, if finance professionals want to find the same data point, for example debt ratio, for 20 companies they are tracking, they will have to visit and go through the statistic page of all 20 companies to find the debt ratio. This script is designed to speed up the finacial analysis process, so that professionals can quickly extract the data in a more efficeint manner. The data we will be extracting here are previous close, 52 Week Range, Market Cap and other common financial ratios. To run the script, we will input the stock tiker which the script will then extract the relevant data from the statistic page of that publicly traded company on yahoo finance.
